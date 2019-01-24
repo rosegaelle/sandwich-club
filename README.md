@@ -1,4 +1,4 @@
-# Sandwich Club Project
+# Android Developer Nanodegree - Project # 1: Sandwich Club
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
