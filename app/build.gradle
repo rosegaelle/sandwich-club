@@ -5,7 +5,7 @@ android {
     buildToolsVersion "28.0.3"
     defaultConfig {
         applicationId "com.udacity.sandwichclub"
-        minSdkVersion 24
+        minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -13,8 +13,8 @@ android {
 
     buildTypes {
         compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_9
-            targetCompatibility JavaVersion.VERSION_1_9
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
         }
 
         release {
